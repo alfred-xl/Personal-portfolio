@@ -103,7 +103,8 @@ nav{
 
     @media screen and (max-width: 500px){
       nav{
-        padding: 15px 7.5px;
+        width:500px;
+        padding: 15px 40px;
       }
       .nav-links{
         position: fixed; 
